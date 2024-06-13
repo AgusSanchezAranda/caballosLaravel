@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+/* Añadir estilos personalizados para el título del componente de autenticación */
+.auth-title {
+    font-size: 3rem; /* Tamaño de la fuente grande */
+    font-weight: bold; /* Negrita */
+    margin-bottom: 4rem; /* Márgenes para separar del logo */
+    text-align: center; /* Centrar el texto */
+}

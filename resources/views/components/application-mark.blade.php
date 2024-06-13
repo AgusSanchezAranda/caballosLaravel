@@ -1,0 +1,1 @@
+<img src="{{ asset('images/caballo_icon.png') }}" alt="Logo" style="width: 50px; height: 50px;">
